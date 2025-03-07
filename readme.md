@@ -1,14 +1,6 @@
-# Build
+应用几何造型基础大作业实现sweepSurface
 
-ubuntu 运行方式: 
+纯对着《The Nurbs》算法实现。
 
-进入project目录下执行以下脚本:
-
-```sh
-apt install libglfw3-dev # ubuntu
-mkdir build
-cd build
-cmake ..
-cmake --build .
-```
+效果一般，只能做简单的情况，复杂的sweep不太行。
 
