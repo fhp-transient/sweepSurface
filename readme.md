@@ -4,3 +4,5 @@
 
 效果一般，只能做简单的情况，复杂的sweep不太行。
 
+结果展示：
+![result](https://github.com/fhp-transient/sweepSurface/blob/master/result.png)
